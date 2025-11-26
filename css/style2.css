@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.benz {
+    height: 1%;
+    width: 5%;
+    
+}
+.bob{
+    margin-left: 1000px;
+}
+.rob{
+    text-align: justify;
+}
+.time{
+    text-align: justify;
+}
+.george{
+    text-align: justify;
+}
